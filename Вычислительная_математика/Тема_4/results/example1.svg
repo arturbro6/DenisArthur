@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="470" viewBox="0 0 900 470">
+<rect width="900" height="470" fill="white"/>
+<text x="65" y="30" font-size="20" font-family="Arial">Пример 1: y(x)</text>
+<path d="M80 65H850" stroke="#ddd"/><text x="8" y="70" font-size="13">1.75797</text>
+<text x="65" y="390" font-size="13">0.000</text>
+<path d="M80 125H850" stroke="#ddd"/><text x="8" y="130" font-size="13">1.59514</text>
+<text x="219" y="390" font-size="13">0.200</text>
+<path d="M80 185H850" stroke="#ddd"/><text x="8" y="190" font-size="13">1.43232</text>
+<text x="373" y="390" font-size="13">0.400</text>
+<path d="M80 245H850" stroke="#ddd"/><text x="8" y="250" font-size="13">1.26950</text>
+<text x="527" y="390" font-size="13">0.600</text>
+<path d="M80 305H850" stroke="#ddd"/><text x="8" y="310" font-size="13">1.10668</text>
+<text x="681" y="390" font-size="13">0.800</text>
+<path d="M80 365H850" stroke="#ddd"/><text x="8" y="370" font-size="13">0.94385</text>
+<text x="835" y="390" font-size="13">1.000</text>
+<polyline points="80.00,344.31 157.00,307.46 234.00,270.98 311.00,235.63 388.00,202.23 465.00,171.60 542.00,144.53 619.00,121.80 696.00,104.07 773.00,91.90 850.00,85.69" fill="none" stroke="#db622a" stroke-width="2"/>
+<text x="80" y="435" font-size="14" fill="#db622a" font-family="Arial">Эйлер, n=10</text>
+<polyline points="80.00,344.31 157.00,307.59 234.00,271.64 311.00,237.28 388.00,205.34 465.00,176.65 542.00,151.97 619.00,131.99 696.00,117.29 773.00,108.29 850.00,105.26" fill="none" stroke="#2563a6" stroke-width="2"/>
+<text x="280" y="435" font-size="14" fill="#2563a6" font-family="Arial">Рунге-Кутта 4</text>
+<polyline points="80.00,344.31 157.00,307.59 234.00,271.64 311.00,237.28 388.00,205.34 465.00,176.65 542.00,151.97 619.00,131.99 696.00,117.29 773.00,108.29 850.00,105.25" fill="none" stroke="#249066" stroke-width="2"/>
+<text x="480" y="435" font-size="14" fill="#249066" font-family="Arial">Эйлер, уточнение</text></svg>
