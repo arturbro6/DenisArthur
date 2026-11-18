@@ -1,0 +1,3 @@
+// Только для демонстрации ошибки. Перед проверкой скопируйте в calc.js.
+const unused = 42;
+console.log(notDeclared);

@@ -1,0 +1,22 @@
+{
+  "name": "jest-validators-learning",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest --runInBand",
+    "test:cov": "jest --runInBand --coverage"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "validators.js"
+    ],
+    "coverageThreshold": {
+      "./validators.js": {
+        "branches": 90
+      }
+    }
+  }
+}
