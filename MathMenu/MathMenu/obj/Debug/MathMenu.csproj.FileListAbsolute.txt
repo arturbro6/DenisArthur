@@ -1,0 +1,107 @@
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\MathMenu.exe.config
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\MathMenu.exe
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\MathMenu.pdb
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\MathMenu.csproj.AssemblyReference.cache
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\MainWindow.g.cs
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\pages\DigitInter.g.cs
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\pages\main.g.cs
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\App.g.cs
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\MathMenu_MarkupCompile.cache
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\MathMenu_MarkupCompile.lref
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\MainWindow.baml
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\pages\DigitInter.baml
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\pages\main.baml
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\MathMenu.g.resources
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\MathMenu.Properties.Resources.resources
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\MathMenu.csproj.GenerateResource.cache
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\MathMenu.csproj.CoreCompileInputs.cache
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\MathMenu.exe
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\MathMenu.pdb
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\MathMenu_Content.g.cs
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\x86\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\x64\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\arm\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\riscv64\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\loongarch64\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\musl-arm\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\musl-arm64\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\musl-riscv64\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\musl-loongarch64\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\libSkiaSharp.dylib
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\HarfBuzzSharp.dll
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\ScottPlot.dll
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\SkiaSharp.dll
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\System.Buffers.dll
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\System.Memory.dll
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\ScottPlot.xml
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\SkiaSharp.pdb
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\System.Buffers.xml
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\System.Memory.xml
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DEN\source\repos\MathMenu\MathMenu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\MathMenu.csproj.Up2Date
+C:\Users\DEN\source\repos\MathMenu\MathMenu\obj\Debug\MathMenu.exe.config
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\x86\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\x64\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\arm\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\arm64\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\riscv64\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\loongarch64\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\musl-x64\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\musl-arm\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\musl-arm64\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\musl-riscv64\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\musl-loongarch64\libSkiaSharp.so
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\libSkiaSharp.dylib
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\MathMenu.exe.config
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\MathMenu.exe
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\MathMenu.pdb
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\HarfBuzzSharp.dll
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\ScottPlot.dll
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\SkiaSharp.dll
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\SkiaSharp.HarfBuzz.dll
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\System.Buffers.dll
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\System.Memory.dll
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\HarfBuzzSharp.pdb
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\ScottPlot.xml
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\SkiaSharp.pdb
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\SkiaSharp.HarfBuzz.pdb
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\System.Buffers.xml
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\System.Memory.xml
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\MathMenu.csproj.AssemblyReference.cache
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\MainWindow.g.cs
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\pages\DigitInter.g.cs
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\pages\main.g.cs
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\App.g.cs
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\MathMenu_Content.g.cs
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\MathMenu_MarkupCompile.cache
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\MathMenu_MarkupCompile.lref
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\MainWindow.baml
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\pages\DigitInter.baml
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\pages\main.baml
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\MathMenu.g.resources
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\MathMenu.Properties.Resources.resources
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\MathMenu.csproj.GenerateResource.cache
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\MathMenu.csproj.CoreCompileInputs.cache
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\MathMenu.csproj.Up2Date
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\MathMenu.exe
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\MathMenu.pdb
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\pages\OdeSolve.g.cs
+C:\Users\DEN\source\repos\MathMenu — копия\MathMenu\obj\Debug\pages\OdeSolve.baml

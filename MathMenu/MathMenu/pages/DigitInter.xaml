@@ -1,0 +1,98 @@
+<Page x:Class="MathMenu.pages.DigitInter"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="clr-namespace:MathMenu.pages"
+      xmlns:controls="clr-namespace:MathMenu.controls"
+      mc:Ignorable="d"
+      d:DesignHeight="720" d:DesignWidth="1100"
+      Title="DigitInter">
+
+    <Grid Background="LightGray">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="320"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="310"/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Button Name="BackButt" Click="BackButt_Click" Grid.Column="0" Grid.Row="0" Height="24" Width="70"
+                HorizontalAlignment="Left" VerticalAlignment="Top" Content="назад" Margin="20,20,0,0"/>
+
+        <Label Name="L1" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="3"
+               HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="27"
+               Content="метод левых прямоугольников" />
+
+        <!-- параметры вычисления -->
+        <StackPanel Grid.Row="1" Grid.RowSpan="3" Grid.Column="0" Margin="20,0,10,20" KeyDown="Inputs_KeyDown">
+            <Label Content="способ задания шага" Padding="0" FontSize="12"/>
+            <ComboBox Name="StepBox" Height="28" SelectionChanged="StepBox_SelectionChanged">
+                <ComboBoxItem Name="ConstVar" Content="постоянный шаг"/>
+                <ComboBoxItem Name="MovingVar" Content="переменный шаг"/>
+            </ComboBox>
+
+            <Label Name="MethodLabel" Content="метод вычисления" Padding="0" FontSize="12" Margin="0,8,0,0"/>
+            <ComboBox Name="MethodBox" Height="28" SelectionChanged="MethodBox_SelectionChanged"/>
+
+            <Label Name="FormulaLabel" Content="формула" Padding="0" FontSize="12" Margin="0,8,0,0"
+                   Visibility="Collapsed"/>
+            <ComboBox Name="FormulaBox" Height="28" Visibility="Collapsed"
+                      SelectionChanged="FormulaBox_SelectionChanged">
+                <ComboBoxItem Name="TrapezoidItem" Content="метод трапеций"/>
+                <ComboBoxItem Name="SimpsonItem" Content="метод Симпсона"/>
+            </ComboBox>
+
+            <Label Name="LowerLabel" Content="нижний предел:" Padding="0" FontSize="12" Margin="0,8,0,0"/>
+            <TextBox Name="LowerLim" Height="26"/>
+
+            <Label Name="UpperLabel" Content="верхний предел:" Padding="0" FontSize="12" Margin="0,8,0,0"/>
+            <TextBox Name="UpperLim" Height="26"/>
+
+            <Label Name="NLabel" Content="число разбиений n:" Padding="0" FontSize="12" Margin="0,8,0,0"/>
+            <TextBox Name="NBox" Height="26"/>
+
+            <Label Name="EpsLabel" Content="точность eps:" Padding="0" FontSize="12" Margin="0,8,0,0"
+                   Visibility="Collapsed"/>
+            <TextBox Name="EpsBox" Height="26" Visibility="Collapsed"/>
+
+            <Button Name="CalcButt" Content="вычислить" Height="32" Margin="0,16,0,0" Click="CalcButt_Click"/>
+        </StackPanel>
+
+        <Border Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="3" Margin="0,0,20,10"
+                Background="White" BorderBrush="#FFA8A8A8" BorderThickness="1" SizeChanged="PlotArea_SizeChanged">
+            <Image Name="PlotImage" Stretch="Fill" RenderOptions.BitmapScalingMode="HighQuality"/>
+        </Border>
+
+        <StackPanel Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="3" Margin="0,0,20,6">
+            <Label Name="ResultLabel" Content="I = —" FontSize="20" Padding="0"/>
+            <TextBlock Name="InfoLabel" FontSize="12" Foreground="#FF4A4A4A" TextWrapping="Wrap"/>
+        </StackPanel>
+
+        <DataGrid Name="ResultsGrid" Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="3" Margin="0,0,20,20"
+                  AutoGenerateColumns="True" IsReadOnly="True" CanUserAddRows="False"
+                  CanUserDeleteRows="False" HeadersVisibility="Column" GridLinesVisibility="Horizontal"
+                  Background="White" RowBackground="White" AlternatingRowBackground="#FFF2F2F2"
+                  FontSize="12" ColumnWidth="auto" RowHeight="22">
+            <DataGrid.ColumnHeaderStyle>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="Background" Value="#FFE8E8E8"/>
+                    <Setter Property="BorderBrush" Value="#FFC0C0C0"/>
+                    <Setter Property="BorderThickness" Value="0,0,1,1"/>
+                    <Setter Property="Padding" Value="6,3"/>
+                    <Setter Property="FontWeight" Value="SemiBold"/>
+                </Style>
+            </DataGrid.ColumnHeaderStyle>
+        </DataGrid>
+    </Grid>
+</Page>
+
+
+
+
